@@ -1,0 +1,7 @@
+
+
+Test 1: @Test1        @; (TestReplace1)
+
+Test 2: @Test2   @; (TestReplace2)
+
+Test 3: @Test3@: (TestReplace3)
