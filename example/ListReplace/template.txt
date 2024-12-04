@@ -1,0 +1,6 @@
+Test Template Kessel: @KESSEL@
+
+RG: @RG@
+AS: @AS@
+
+Ende Template
